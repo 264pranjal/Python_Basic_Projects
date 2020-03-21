@@ -1,0 +1,6 @@
+print("...rock...")
+print("...paper...")
+print("...scissors...")
+player1 = input("player 1 enters: ")
+player2 = input("player 2 enters: ")
+print("shoot")
